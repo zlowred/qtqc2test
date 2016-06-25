@@ -57,8 +57,8 @@ Item {
                     text: qsTr("0")
                     checked: true
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-                    Layout.preferredHeight: 40
-                    Layout.preferredWidth: 32
+                    Layout.preferredHeight: 48
+                    Layout.preferredWidth: 40
                     checkable: true
                 }
 
@@ -78,8 +78,8 @@ Item {
                     id: button2
                     text: qsTr("1")
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-                    Layout.preferredHeight: 40
-                    Layout.preferredWidth: 32
+                    Layout.preferredHeight: 48
+                    Layout.preferredWidth: 40
                     checkable: true
                 }
 
@@ -99,8 +99,8 @@ Item {
                     id: button3
                     text: qsTr("2")
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-                    Layout.preferredHeight: 40
-                    Layout.preferredWidth: 32
+                    Layout.preferredHeight: 48
+                    Layout.preferredWidth: 40
                     checkable: true
                 }
 
@@ -119,8 +119,8 @@ Item {
                     id: button4
                     text: qsTr("3")
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-                    Layout.preferredHeight: 40
-                    Layout.preferredWidth: 32
+                    Layout.preferredHeight: 48
+                    Layout.preferredWidth: 40
                     checkable: true
                 }
 
@@ -139,8 +139,8 @@ Item {
                     id: button5
                     text: qsTr("4")
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-                    Layout.preferredHeight: 40
-                    Layout.preferredWidth: 32
+                    Layout.preferredHeight: 48
+                    Layout.preferredWidth: 40
                     checkable: true
                 }
 
@@ -159,8 +159,8 @@ Item {
                     id: button6
                     text: qsTr("5")
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-                    Layout.preferredHeight: 40
-                    Layout.preferredWidth: 32
+                    Layout.preferredHeight: 48
+                    Layout.preferredWidth: 40
                     checkable: true
                 }
 
@@ -179,8 +179,8 @@ Item {
                     id: button7
                     text: qsTr("6")
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-                    Layout.preferredHeight: 40
-                    Layout.preferredWidth: 32
+                    Layout.preferredHeight: 48
+                    Layout.preferredWidth: 40
                     checkable: true
                 }
 
@@ -198,8 +198,8 @@ Item {
                     id: button8
                     text: qsTr("7")
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-                    Layout.preferredHeight: 40
-                    Layout.preferredWidth: 32
+                    Layout.preferredHeight: 48
+                    Layout.preferredWidth: 40
                     checkable: true
                 }
 
@@ -218,8 +218,8 @@ Item {
                     id: button9
                     text: qsTr("8")
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-                    Layout.preferredHeight: 40
-                    Layout.preferredWidth: 32
+                    Layout.preferredHeight: 48
+                    Layout.preferredWidth: 40
                     checkable: true
                 }
 
@@ -238,8 +238,8 @@ Item {
                     id: button10
                     text: qsTr("9")
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-                    Layout.preferredHeight: 40
-                    Layout.preferredWidth: 32
+                    Layout.preferredHeight: 48
+                    Layout.preferredWidth: 40
                     checkable: true
                 }
 
@@ -258,8 +258,8 @@ Item {
                     id: button11
                     text: qsTr("10")
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-                    Layout.preferredHeight: 40
-                    Layout.preferredWidth: 32
+                    Layout.preferredHeight: 48
+                    Layout.preferredWidth: 40
                     checkable: true
                 }
 
@@ -278,8 +278,8 @@ Item {
                     id: button12
                     text: qsTr("11")
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-                    Layout.preferredHeight: 40
-                    Layout.preferredWidth: 32
+                    Layout.preferredHeight: 48
+                    Layout.preferredWidth: 40
                     checkable: true
                 }
 
@@ -298,8 +298,8 @@ Item {
                     id: button13
                     text: qsTr("12")
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-                    Layout.preferredHeight: 40
-                    Layout.preferredWidth: 32
+                    Layout.preferredHeight: 48
+                    Layout.preferredWidth: 40
                     checkable: true
                 }
 
@@ -318,8 +318,8 @@ Item {
                     id: button14
                     text: qsTr("13")
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-                    Layout.preferredHeight: 40
-                    Layout.preferredWidth: 32
+                    Layout.preferredHeight: 48
+                    Layout.preferredWidth: 40
                     checkable: true
                 }
 
@@ -338,8 +338,8 @@ Item {
                     id: button15
                     text: qsTr("14")
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-                    Layout.preferredHeight: 40
-                    Layout.preferredWidth: 32
+                    Layout.preferredHeight: 48
+                    Layout.preferredWidth: 40
                     checkable: true
                 }
 
@@ -358,8 +358,8 @@ Item {
                     id: button16
                     text: qsTr("15")
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
-                    Layout.preferredHeight: 40
-                    Layout.preferredWidth: 32
+                    Layout.preferredHeight: 48
+                    Layout.preferredWidth: 40
                     checkable: true
                 }
 

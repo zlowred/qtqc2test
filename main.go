@@ -21,10 +21,23 @@ func run() error {
 		return err
 	}
 
+	app := &App{}
+
+	context := engine.Context()
+	context.SetVar("app", app)
+
 	window := component.CreateWindow(nil)
 
 	window.Show()
 	window.Wait()
 
 	return nil
+}
+
+type App struct {
+	Root qml.Object
+}
+
+func (a* App) Call(id int, value int) {
+	fmt.Printf("%v -> %v\n", id, value)
 }

@@ -6,6 +6,38 @@ Item {
     id: item1
     width: 800
     height: 480
+    property alias button1: button1
+    property alias button2: button2
+    property alias button3: button3
+    property alias button4: button4
+    property alias button5: button5
+    property alias button6: button6
+    property alias button7: button7
+    property alias button8: button8
+    property alias button9: button9
+    property alias button10: button10
+    property alias button11: button11
+    property alias button12: button12
+    property alias button13: button13
+    property alias button14: button14
+    property alias button15: button15
+    property alias button16: button16
+    property alias label1: label1
+    property alias label2: label2
+    property alias label3: label3
+    property alias label4: label4
+    property alias label5: label5
+    property alias label6: label6
+    property alias label7: label7
+    property alias label8: label8
+    property alias label9: label9
+    property alias label10: label10
+    property alias label11: label11
+    property alias label12: label12
+    property alias label13: label13
+    property alias label14: label14
+    property alias label15: label15
+    property alias label16: label16
     property alias dial1: dial1
     property alias dialLabel: label17
 
@@ -33,15 +65,14 @@ Item {
 
                 Label {
                     id: label17
-                    x: 205
-                    y: 195
-                    text: "123"
+                    text: "0"
                     verticalAlignment: Text.AlignVCenter
                     textFormat: Text.PlainText
                     anchors.horizontalCenter: parent.horizontalCenter
                     anchors.verticalCenter: parent.verticalCenter
                     horizontalAlignment: Text.AlignHCenter
                 }
+
             }
         }
 
@@ -64,7 +95,7 @@ Item {
 
                 Label {
                     id: label1
-                    text: qsTr("222")
+                    text: qsTr("0")
                     horizontalAlignment: Text.AlignHCenter
                     Layout.fillWidth: true
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
@@ -85,7 +116,7 @@ Item {
 
                 Label {
                     id: label2
-                    text: qsTr("222")
+                    text: qsTr("0")
                     horizontalAlignment: Text.AlignHCenter
                     Layout.fillWidth: true
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
@@ -106,7 +137,7 @@ Item {
 
                 Label {
                     id: label3
-                    text: qsTr("222")
+                    text: qsTr("0")
                     horizontalAlignment: Text.AlignHCenter
                     Layout.fillWidth: true
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
@@ -126,7 +157,7 @@ Item {
 
                 Label {
                     id: label4
-                    text: qsTr("222")
+                    text: qsTr("0")
                     horizontalAlignment: Text.AlignHCenter
                     Layout.fillWidth: true
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
@@ -146,7 +177,7 @@ Item {
 
                 Label {
                     id: label5
-                    text: qsTr("222")
+                    text: qsTr("0")
                     horizontalAlignment: Text.AlignHCenter
                     Layout.fillWidth: true
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
@@ -166,7 +197,7 @@ Item {
 
                 Label {
                     id: label6
-                    text: qsTr("222")
+                    text: qsTr("0")
                     horizontalAlignment: Text.AlignHCenter
                     Layout.fillWidth: true
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
@@ -186,7 +217,8 @@ Item {
 
                 Label {
                     id: label7
-                    text: qsTr("222")
+                    text: qsTr("0")
+                    horizontalAlignment: Text.AlignHCenter
                     Layout.fillWidth: true
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
                 }
@@ -205,7 +237,7 @@ Item {
 
                 Label {
                     id: label8
-                    text: qsTr("222")
+                    text: qsTr("0")
                     horizontalAlignment: Text.AlignHCenter
                     Layout.fillWidth: true
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
@@ -225,7 +257,7 @@ Item {
 
                 Label {
                     id: label9
-                    text: qsTr("222")
+                    text: qsTr("0")
                     horizontalAlignment: Text.AlignHCenter
                     Layout.fillWidth: true
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
@@ -245,7 +277,7 @@ Item {
 
                 Label {
                     id: label10
-                    text: qsTr("222")
+                    text: qsTr("0")
                     horizontalAlignment: Text.AlignHCenter
                     Layout.fillWidth: true
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
@@ -265,7 +297,7 @@ Item {
 
                 Label {
                     id: label11
-                    text: qsTr("222")
+                    text: qsTr("0")
                     horizontalAlignment: Text.AlignHCenter
                     Layout.fillWidth: true
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
@@ -285,7 +317,7 @@ Item {
 
                 Label {
                     id: label12
-                    text: qsTr("222")
+                    text: qsTr("0")
                     horizontalAlignment: Text.AlignHCenter
                     Layout.fillWidth: true
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
@@ -305,7 +337,7 @@ Item {
 
                 Label {
                     id: label13
-                    text: qsTr("222")
+                    text: qsTr("0")
                     horizontalAlignment: Text.AlignHCenter
                     Layout.fillWidth: true
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
@@ -325,7 +357,7 @@ Item {
 
                 Label {
                     id: label14
-                    text: qsTr("222")
+                    text: qsTr("0")
                     horizontalAlignment: Text.AlignHCenter
                     Layout.fillWidth: true
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
@@ -345,7 +377,7 @@ Item {
 
                 Label {
                     id: label15
-                    text: qsTr("222")
+                    text: qsTr("0")
                     horizontalAlignment: Text.AlignHCenter
                     Layout.fillWidth: true
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
@@ -365,7 +397,7 @@ Item {
 
                 Label {
                     id: label16
-                    text: qsTr("222")
+                    text: qsTr("0")
                     horizontalAlignment: Text.AlignHCenter
                     Layout.fillWidth: true
                     Layout.alignment: Qt.AlignHCenter | Qt.AlignVCenter
